@@ -1,0 +1,15 @@
+.imgCaurs{
+    height: 500px;
+}
+.carouselWidth{
+    width: 400px !important;
+}
+.mainDiv{
+    width: 100%;
+    justify-content: center !important ;
+    display: flex;
+
+}
+*{
+    font-family: 'Redressed', cursive;
+}
